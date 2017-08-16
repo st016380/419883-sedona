@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Gleb Shuvalov](https://up.htmlacademy.ru/htmlcss/18/user/419883).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Русаков](https://htmlacademy.ru/profile/id6302).
 
 ---
 
